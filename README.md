@@ -6,6 +6,7 @@ The purpose of this repo is to document my learning progress and practice core d
 
 
 About the Course
+
 Data Engineering Zoomcamp is a free, hands-on program that covers the end-to-end data engineering stack, including:
 
 Docker & Docker Compose
@@ -15,6 +16,8 @@ Workflow orchestration
 Data warehousing and analytics engineering
 Batch and streaming data processing
 Official Resources
+
+
 Course repository:
 https://github.com/DataTalksClub/data-engineering-zoomcamp
 
